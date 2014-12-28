@@ -1,0 +1,24 @@
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\ant-build\CordovaApp.ap_ \
+ : C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\res\drawable\icon.png \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\res\drawable\screen.png \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\res\values\strings.xml \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\res\xml\config.xml \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\ant-build\res\drawable\icon.png \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\ant-build\res\drawable\screen.png \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\_where-is-www.txt \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www\cordova.js \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www\cordova_plugins.js \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www\css \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www\img \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www\index.html \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www\js \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www\plugins \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www\css\index.css \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www\img\logo.png \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www\js\geolocalizacao.js \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www\js\index.js \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www\plugins\org.apache.cordova.splashscreen \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www\plugins\org.apache.cordova.splashscreen\www \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\assets\www\plugins\org.apache.cordova.splashscreen\www\splashscreen.js \
+C:\Users\Rafhael\Desktop\GPS\gps\platforms\android\ant-build\AndroidManifest.xml \
