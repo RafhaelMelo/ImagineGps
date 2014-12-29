@@ -11,7 +11,7 @@
     <access origin="*" />
 	
 	
-	<preference name="SplashScreen" value="screen" />
+	<preference name="SplashScreen" value="splash" />
 	<preference name="SplashScreenDelay" value="12000" />
 	<splash src="gsi-base-splash.png" />
 	
